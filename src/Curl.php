@@ -1,7 +1,7 @@
 <?php
 
 
-namespace BouletAP\Tools;
+namespace BouletAP;
 
 class Curl {
     
